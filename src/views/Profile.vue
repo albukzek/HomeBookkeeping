@@ -44,6 +44,11 @@ import {required} from 'vuelidate/lib/validators'
 
 
 export default {
+  metaInfo(){
+    return {
+      title: this.$title('ProfileTitle')
+    }
+  },
   data:()=>({
     name: '',
     isRuLacale: true

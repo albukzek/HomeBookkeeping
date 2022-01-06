@@ -65,7 +65,10 @@
   "CatAdded" : "Категория успешно обовлена",
   "Left" : "Осталось",
   "ExcessBy" : "Превышение на",
-  "RecordCreatedSuccessfully" : "Запись успешно создана"
+  "RecordCreatedSuccessfully" : "Запись успешно создана",
+  "Details" : "Детали",
+  "Login" : "Авторизация",
+  "Rec" : "Запись"
 
 
 

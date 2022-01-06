@@ -65,7 +65,12 @@
   "CatAdded" : "Category has been successfully upgraded",
   "Left" : "Left",
   "ExcessBy" : "Excess by",
-  "RecordCreatedSuccessfully" : "Record created successfully"
+  "RecordCreatedSuccessfully" : "Record created successfully",
+  "Details" : "Details",
+  "Login" : "Login",
+  "Rec" : "Record" 
+
+
 
   
 

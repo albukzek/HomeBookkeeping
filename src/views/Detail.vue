@@ -31,7 +31,13 @@
 </template>
 
 <script>
+
 export default {
+  metaInfo(){
+    return {
+      title: this.$title('Details')
+    }
+  },
   name:'detail',
   data:() => ({
     record: null,
