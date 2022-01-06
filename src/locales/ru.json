@@ -1,0 +1,82 @@
+{
+  "ProfileTitle" : "Профиль",
+  "Message_EnterName" : "Введите имя",
+  "Update" : "Обновить",
+  "Name" : "Имя",
+  "MenuBill" : "Счет",
+  "MenuHistory" : "История",
+  "MenuPlaning" : "Планирование",
+  "MenuRecord" : "Новая запись",
+  "MenuCategory" : "Категория",
+  "Cat_Categories" : "Категории",
+  "Cat_EnterCategories" : "Категорий пока нет",
+  "D_History" : "История",
+  "D_Description" : "Описание",
+  "D_Amount" : "Сумма",
+  "D_RecNotFound1" : "Запись с ID =",
+  "D_RecNotFound2" : "не найдена",
+  "H_HRec" : "История записей",
+  "H_HNotRec" : "Записей пока нет.",
+  "H_AddFirstRec" : "Добавьте первую",
+  "Back" : "Назад",
+  "Next" : "Вперед",
+  "Income" : "Доход",
+  "Outcome" : "Расход",
+  "Refresh" : "Обновить",
+  "L_HomeBookkeeping" : "Домашняя бухгалтерия",
+  "L_Email" : "Email",
+  "L_EmailNotEmpty" : "Поле Email не должно быть пустым",
+  "L_EmailNotCorrect" : "Введите корретный Email",
+  "L_Password" : "Пароль",
+  "L_EnterPassword" : "Введите пароль",
+  "L_LengthPassword1" : "Пароль должен быть",
+  "L_LengthPassword2" : "символов. Сейчас он",
+  "L_Enter" : "Войти",
+  "L_Send" : "Отправить",
+  "L_NotAk" : "Нет аккаунта?",
+  "L_Reg" : "Зарегистрироваться",
+  "P_NotCat" : "Категорий пока нет.",
+  "P_AddNewCat" : "Добавить новую категорию",
+  "Iz" :"из",
+  "R_SelectACategory" : "Выберите категорию",
+  "R_MinimumValue" : "Минимальное значение",
+  "R_EnterADescription" : "Введите описание",
+  "R_Create" : "Создать",
+  "Reg_Reg" : "Зарегистрироваться",
+  "Reg_AllredAcc" : "Уже есть аккаунт?",
+  "Reg_Go" : "Войти!",
+  "Reg_IAgree" : "С правилами согласен",
+  "SomWentWrong" : "Что-то пошло не так",
+  "Profile" : "Profile",
+  "Exit" : "Exit",
+  "Limit" : "Лимит",
+  "Name2" : "Название",
+  "NameCat" : "Введите название категории",
+  "CreatedCategory" : "Категория была создана",
+  "ExchangeRates" : "Курс валют",
+  "Сurrency" : "Валюта",
+  "Well" : "Курс",
+  "Date" : "Дата",
+  "CurrencyAccount" : "Счет в валюте",
+  "Type" : "Тип",
+  "Open" : "Открыть",
+  "Edit" : "Редактировать",
+  "EnterNameCat" : "Введите название категории",
+  "CatAdded" : "Категория успешно обовлена",
+  "Left" : "Осталось",
+  "ExcessBy" : "Превышение на",
+  "RecordCreatedSuccessfully" : "Запись успешно создана"
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
